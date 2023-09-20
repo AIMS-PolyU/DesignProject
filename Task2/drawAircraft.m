@@ -72,7 +72,7 @@ function XYZ=rotate(XYZ,phi,theta,psi)
     R_yaw = [];% to be complete by students
     R_b_v = ;
     % rotate vertices
-    XYZ = R_b_v*XYZ;
+    XYZ = ;
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
