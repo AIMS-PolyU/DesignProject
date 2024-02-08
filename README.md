@@ -1,1 +1,1 @@
-This project is originally from https://github.com/randybeard/mavsim_public.
+This project is extracted the project of https://github.com/randybeard/mavsim_public.
